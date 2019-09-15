@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency App</string>
+    <string name="prompTxt">Enter US $ amount</string>
+    <string name="convertOptions">"Conversion Options "</string>
+    <string name="pesoConversion">Mexican Peso (1:19.44)</string>
+    <string name="euroConvert">European Euro (1:0.90)</string>
+    <string name="canadaConvert">Canadian Dollar (1:1.32)</string>
+    <string name="convertButton">Convert</string>
+</resources>
